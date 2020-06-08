@@ -111,3 +111,21 @@ body{
     top:7%;
     left:10%;
 }
+#twimg{
+    position: absolute;
+    top:-20%;
+    left:-10%;
+    width:20%;
+}
+#twname{
+    font-size:22px;
+    position: absolute;
+    top:7%;
+    left:10%;
+}
+#twcontent{
+    position: absolute;
+    top:30%;
+    left:10%;
+    width:80%;
+}

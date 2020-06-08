@@ -22,7 +22,6 @@ const colorfeature={
 
 
 var month=12
-var day=17
 
 if(month===1){
     pageBack.style.backgroundColor='#d9947c';
